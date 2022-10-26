@@ -22,15 +22,15 @@ task("accounts", "Prints the list of accounts", async () => {
 // Go to https://hardhat.org/config/ to learn more
 
 // TLD to use in deployment
-const TLD = "name";
+const TLD = "TRH";
 
 // Go to https://www.infura.io
-const INFURA_API_KEY = "INFURA PROJECT ID";
+const INFURA_API_KEY = "I3483a7c5292c4f009e1b3f01bee7d02c";
 
 // Replace this private key with your account private key
 // To export your private key from Metamask, open Metamask and
 // go to Account Details > Export Private Key
-const PRIVATE_KEY = "";
+const PRIVATE_KEY = "c0135c3c88949f5a648bb3da4dc773c4d097b315f87362822d517523857399b7";
 
 // using ChainLink USD Oracle on Mainnet or set null to use DummyOracle
 // https://data.chain.link/ethereum/mainnet/crypto-usd/eth-usd
